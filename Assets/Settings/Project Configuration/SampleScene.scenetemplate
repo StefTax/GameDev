@@ -66,6 +66,8 @@ MonoBehaviour:
     UI and other examples of best-practices for VR development.
   preview: {fileID: -313791287703854912}
   dependencies:
+  - dependency: {fileID: 2100000, guid: b5a4dabfacd03f9419db0e20b627f44f, type: 2}
+    instantiationMode: 0
   - dependency: {fileID: 112000000, guid: babed66f44e8b5445b185fac4e02e130, type: 2}
     instantiationMode: 0
   - dependency: {fileID: 15600000, guid: fe80eee72bcdb2f4d86d771d6eb1c80d, type: 2}
